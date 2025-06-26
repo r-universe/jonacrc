@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "denseFLMM"]
+	path = denseFLMM
+	url = https://github.com/jonacrc/denseflmm
+[submodule "sparseFLMM"]
+	path = sparseFLMM
+	url = https://github.com/jonacrc/sparseflmm
